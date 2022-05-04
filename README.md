@@ -1,0 +1,1 @@
+# codeSpeedy.js
