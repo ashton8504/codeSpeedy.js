@@ -8,7 +8,7 @@ upper = str.toUpperCase();
 console.log(upper)
 
 //Building toUpperCase() from scratch
-   
+
 //Declaring a function that takes a string
 function toUpperCase(string){
     //setting up a variable named upper to an empty string
