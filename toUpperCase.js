@@ -8,7 +8,7 @@ upper = str.toUpperCase();
 console.log(upper)
 
 //Building toUpperCase() from scratch
-
+   
 //Declaring a function that takes a string
 function toUpperCase(string){
     //setting up a variable named upper to an empty string
@@ -24,7 +24,7 @@ function toUpperCase(string){
             upper += String.fromCharCode(str.charCodeAt(i) - 32)
             // else statement if above is not true
         } else {
-            //+= takes the values from the right of the operator and add its to the variable on the left 
+            //+= takes the values from the right of the operator and add its to the variable on the left
             upper += str[i]
         }
     }
