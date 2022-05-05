@@ -34,6 +34,6 @@ function substring(str, start, end = -1) {
 // String is setup to Hello World
 str = 'Hello World'
 
-//Console Logs to return our result 
+//Console Logs to return our result
 console.log(substring(str, 2, 9))
-console.log(substring(str, 3))
+console.log(substring(str, 3)) 
